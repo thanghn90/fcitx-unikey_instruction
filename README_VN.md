@@ -11,7 +11,7 @@ Chắc hẳn bạn đã biết đến ibus-unikey và ibus-bamboo là các công
 
 ![alt text](https://github.com/thanghn90/fcitx-unikey_instruction/blob/main/2.%20Install%20New%20Language.png)
 
-3. Kéo xuống, nhấp 2 trái chuột vào "Vietnamese" để nó tô đậm và dòng chữ "1 to install" xuất hiện:
+3. Kéo xuống, ấn đúp trái chuột vào "Vietnamese" để nó tô đậm và dòng chữ "1 to install" xuất hiện:
 
 ![alt text](https://github.com/thanghn90/fcitx-unikey_instruction/blob/main/3.%20Install%20Vietnamese.png)
 
